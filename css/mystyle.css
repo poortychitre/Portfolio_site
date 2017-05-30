@@ -1,0 +1,26 @@
+#logo {
+    margin-top: 25px;
+}
+#title1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    text-align: right;
+}
+#title2 {
+            font-family: font-family: 'Poppins', sans-serif;
+            text-align: right;
+        }
+        #title_line {
+            height: 5px;
+            display: block;
+            background-color:#2d3c49
+        }
+        #article_title {
+            font-family: 'Work Sans', sans-serif;
+            color:#7d97ad;
+            margin-left: 20px;
+            font-size: 40px;
+        }
+        .col-md-4 {
+            text-align: center;
+        }
